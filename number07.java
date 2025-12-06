@@ -19,7 +19,7 @@ public class number7
 
        
         for (int x : arr) {
-            System.out.println(x);
+            System.out.print(x + " ");
         }
     }
  }
